@@ -69,8 +69,6 @@ Este projeto permite baixar o áudio de um vídeo do YouTube, transcrevê-lo usa
 - **Saída do `ffmpeg` aparecendo no terminal**
   - Use `quiet=True` na chamada do `ffmpeg-python` ou redirecione a saída para `os.devnull`.
 
-## 📜 Licença
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 📩 Contato
 Caso tenha alguma dúvida ou sugestão, entre em contato pelo e-mail: **seuemail@example.com**.
